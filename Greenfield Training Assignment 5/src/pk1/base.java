@@ -5,5 +5,6 @@ public class base {
 		System.out.println("This is added in Branch B");
 		System.out.println("Creating conflict");
 		wrong syntax
+		trying everything nothing works
 		}
 }
