@@ -2,8 +2,7 @@ package pk1;
 
 public class base {
 	public static void main(String[] args) {
-		System.out.println("This is an example. Changes made");
-		System.out.println("This is added in Branch A");
+		System.out.println("This is added in Branch B");
 	}
 
 }
